@@ -44,7 +44,7 @@ else:
 
 ## 3. 列表
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ULibHgXIt3jy0MXLudferic52IUD6oHctmvFvooKm2c8IW4eApII5rmWfjz7Ir6u73mg9AWoOlEEwYlltlbFyuwg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![image](https://user-images.githubusercontent.com/88998157/166691037-2501eb7a-2db7-4c47-a7c3-cc3daf1157a9.png)
 
 **案例：**判断6这个数在列表[1,2,2,3,6,4,5,6,8,9,78,564,456]中的位置，并输出其下标。
 
